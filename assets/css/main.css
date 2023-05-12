@@ -1,3 +1,7 @@
+.app{
+    background-color: rgb(240, 240, 240);
+}
+
 .header{
     display: block;
     white-space: nowrap;
@@ -295,4 +299,57 @@
     padding: 6px;
     text-align: center;
     line-height: 28px;
+}
+
+/* colum-1 */
+.col__custom-avatar{
+    width: 150px;
+}
+.img-responsive{
+    width: 150px;
+    margin: 30px
+}
+.inner-class{
+    
+    width: 1277px;
+    padding: 19px;
+    min-height: 209px;
+    margin: 65px -274px;
+}
+.row-well{
+    background-color: #fbfbfb;
+    border: 1px solid #ddd;
+    height: 220px;
+    
+}
+.custom-info{
+    position: absolute;
+    list-style: none;
+    margin: -188px 151px;
+}
+
+.font-weight-bold{
+    font-weight: 700;
+}
+.custon-info-weight{
+    margin: 3px;
+    font-size: 1.4rem;
+}
+
+/* Content */
+.mb-2-star-inserted{
+    font-weight: 3.2;
+}
+.color-level-1{
+    color: #d686864d;
+}
+
+.icon-check{
+    color: #6c757d;
+  
+}
+
+.card{
+    color: #17A2B8;
+    background-color: white;
 }
