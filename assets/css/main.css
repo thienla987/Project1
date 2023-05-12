@@ -346,10 +346,29 @@
 
 .icon-check{
     color: #6c757d;
+    padding: 25px;
+    font-size: 32px;
   
 }
 
 .card{
     color: #17A2B8;
     background-color: white;
+}
+.studen{
+    min-height: 61px;
+}
+.dowload{
+    padding: 68px;
+}
+
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+#move__icon{
+    font-size: 3rem;
+    margin-left: 424px;
 }
